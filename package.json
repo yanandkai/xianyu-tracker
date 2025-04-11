@@ -1,0 +1,16 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "A simple budget tracking application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "budget",
+    "finance",
+    "tracker"
+  ],
+  "author": "",
+  "license": "MIT"
+} 
